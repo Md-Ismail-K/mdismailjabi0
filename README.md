@@ -8,7 +8,7 @@ hi, i'm a professional [JavaScript] developer, a passionate self-taught full sta
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="code.gif.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 
