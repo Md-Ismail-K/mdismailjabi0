@@ -27,7 +27,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🌸  Completed 0 tasks today           
-✅  Completed 179 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 7 tasks so far           
+⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
 
